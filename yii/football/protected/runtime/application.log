@@ -1,0 +1,770 @@
+2013/05/23 18:13:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php
+---
+2013/05/23 18:15:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/page&view=about
+---
+2013/05/23 18:16:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/players
+---
+2013/05/23 18:16:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/players
+---
+2013/05/23 18:39:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/
+---
+2013/05/23 18:42:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/
+---
+2013/05/23 18:42:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players
+HTTP_REFERER=http://127.0.0.1/yii/football/
+---
+2013/05/23 18:42:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/page&view=about
+---
+2013/05/23 18:42:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/page&view=about
+---
+2013/05/23 18:42:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/login
+---
+2013/05/23 18:44:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/index
+---
+2013/05/23 19:15:37 [error] [php] include(table.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\site\players.php(12): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): SiteController->renderFile()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php(37): SiteController->render()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionPlayers()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\site\players.php (12)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php (37)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/05/29 14:38:44 [error] [php] include(players.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php(37): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionPlayers()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(286): SiteController->runAction()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php (37)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/05/29 14:39:04 [error] [php] include(players.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php(37): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionPlayers()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(286): SiteController->runAction()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php (37)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/05/29 14:41:10 [error] [php] include(players.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php(37): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionPlayers()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(286): SiteController->runAction()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php (37)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/05/29 14:43:55 [error] [php] include(players.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php(37): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionPlayers()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(286): SiteController->runAction()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\SiteController.php (37)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/05/29 15:51:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/index
+---
+2013/05/29 15:51:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/index
+---
+2013/05/29 18:10:17 [error] [exception.CException] exception 'CException' with message 'CActiveForm and its behaviors do not have a method or closure named "comboBox".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php(38): CComponent->__call('comboBox', Array)
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php(38): CActiveForm->comboBox(Object(Players), 'club', Array)
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): CController->renderPartial('_form', Array)
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): CController->render('create', Array)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('players/create')
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/yii/football/index.php?r=players/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/login
+---
+2013/05/29 18:56:09 [error] [php] Undefined variable: myModel (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php:52)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): PlayersController->renderPartial()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayersController->renderInternal()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayersController->renderPartial()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): PlayersController->render()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayersController->runAction()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayersController->filterAccessControl()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayersController->runActionWithFilters()
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayersController->run()
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=players/create
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php (52)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php (18)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php (79)
+2013/05/29 18:56:56 [error] [exception.CException] exception 'CException' with message 'Alias "ext.combobox.EJuiComboBox" is invalid. Make sure it points to an existing PHP file and the file is readable.' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:316
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.combobox.EJ...', true)
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(PlayersController), 'ext.combobox.EJ...', Array)
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.combobox.EJ...', Array)
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php(70): CBaseController->widget('ext.combobox.EJ...', Array)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): CController->renderPartial('_form', Array)
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): CController->render('create', Array)
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#23 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('players/create')
+#24 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#25 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/yii/football/index.php?r=players/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=players
+---
+2013/05/29 19:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(270): CController->missingAction('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('players')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/players')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/football/index.php?r=site/players&view=about
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/players&view=about
+---
+2013/05/29 19:09:15 [error] [php] Undefined variable: select (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php:46)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): PlayersController->renderPartial()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayersController->renderInternal()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayersController->renderPartial()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): PlayersController->render()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayersController->runAction()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayersController->filterAccessControl()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayersController->runActionWithFilters()
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayersController->run()
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=players/create
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php (46)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php (18)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php (79)
+2013/05/29 19:22:02 [error] [php] Undefined variable: select (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php:46)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): PlayersController->renderPartial()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayersController->renderInternal()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayersController->renderPartial()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): PlayersController->render()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayersController->runAction()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayersController->filterAccessControl()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayersController->runActionWithFilters()
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayersController->run()
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=players/create
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php (46)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php (18)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php (79)
+2013/05/29 19:22:14 [error] [exception.CException] exception 'CException' with message 'Property "Players.getOptions" is not defined.' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\ar\CActiveRecord.php(143): CComponent->__get('getOptions')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php(47): CActiveRecord->__get('getOptions')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): CController->renderPartial('_form', Array)
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): CController->render('create', Array)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('players/create')
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/yii/football/index.php?r=players/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=players
+---
+2013/05/29 20:15:23 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.haho" is not defined.' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\_form.php(38): CComponent->__get('haho')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\create.php(18): CController->renderPartial('_form', Array)
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(79): CController->render('create', Array)
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionCreate()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('players/create')
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#23 {main}
+REQUEST_URI=/yii/football/index.php?r=players/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=players
+---
+2013/06/05 19:55:43 [error] [php] Undefined variable: form (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\index.php:22)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayersController->renderPartial()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(128): PlayersController->render()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionIndex()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayersController->runAction()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayersController->filterAccessControl()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayersController->runActionWithFilters()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayersController->run()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=players/index
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\index.php (22)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php (128)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/06/06 18:07:44 [error] [php] Undefined variable: form (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\index.php:22)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayersController->renderFile()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayersController->renderPartial()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php(128): PlayersController->render()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayersController->actionIndex()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayersController->runAction()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayersController->filterAccessControl()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayersController->runActionWithFilters()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayersController->run()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=players
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\players\index.php (22)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayersController.php (128)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/06/06 18:26:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=players
+HTTP_REFERER=http://127.0.0.1/yii/football/
+---
+2013/06/06 18:26:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "players".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('players')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=players
+HTTP_REFERER=http://127.0.0.1/yii/football/
+---
+2013/06/06 18:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "clubs/create".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('clubs/create')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=clubs/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=clubs
+---
+2013/06/06 18:36:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "clubs".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('clubs')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=clubs
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=player/create
+---
+2013/06/06 18:36:53 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'a' for column 'year_of_foundation' at row 1. The SQL statement executed was: INSERT INTO `clubs` (`name`, `year_of_foundation`) VALUES (:yp0, :yp1).
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\ClubController.php (73)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
+2013/06/06 18:36:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'a' for column 'year_of_foundation' at row 1. The SQL statement executed was: INSERT INTO `clubs` (`name`, `year_of_foundation`) VALUES (:yp0, :yp1)' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\CDbCommand.php:357
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\ClubController.php(73): CActiveRecord->save()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): ClubController->actionCreate()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('club/create')
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/football/index.php?r=club/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=club/create
+---
+2013/06/06 18:44:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "transfers".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfers')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=transfers
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=site/page&view=about
+---
+2013/06/06 18:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "transfers".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfers')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=transfers
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfers
+---
+2013/06/06 18:44:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "transfers".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfers')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=transfers
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfers
+---
+2013/06/06 18:44:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "transfers".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfers')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=transfers
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfers
+---
+2013/06/06 18:44:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "transfers".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfers')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=transfers
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfers
+---
+2013/06/06 18:45:33 [error] [php] include(Clubs.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\_form.php(38): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayerController->renderInternal()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayerController->renderFile()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\create.php(18): PlayerController->renderPartial()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayerController->renderInternal()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayerController->renderFile()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayerController->renderPartial()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayerController.php(79): PlayerController->render()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayerController->actionCreate()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayerController->runAction()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayerController->filterAccessControl()
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayerController->runActionWithFilters()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayerController->run()
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=player/create
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\_form.php (38)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\create.php (18)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayerController.php (79)
+2013/06/06 18:45:48 [error] [php] include(Clubs.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\_form.php(38): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayerController->renderInternal()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayerController->renderFile()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\create.php(18): PlayerController->renderPartial()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): PlayerController->renderInternal()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): PlayerController->renderFile()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): PlayerController->renderPartial()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayerController.php(79): PlayerController->render()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): PlayerController->actionCreate()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): PlayerController->runAction()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): PlayerController->filterAccessControl()
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): PlayerController->runActionWithFilters()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): PlayerController->run()
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=player/create
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\_form.php (38)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\player\create.php (18)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\PlayerController.php (79)
+2013/06/06 18:59:22 [error] [exception.CException] exception 'CException' with message 'Property "Transfer.club" is not defined.' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\ar\CActiveRecord.php(143): CComponent->__get('club')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\helpers\CHtml.php(2255): CActiveRecord->__get('club')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\helpers\CHtml.php(1565): CHtml::resolveValue(Object(Transfer), 'club')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\widgets\CActiveForm.php(763): CHtml::activeDropDownList(Object(Transfer), 'club', Array, Array)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\transfer\_form.php(38): CActiveForm->dropDownList(Object(Transfer), 'club', Array)
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\transfer\create.php(18): CController->renderPartial('_form', Array)
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\TransferController.php(79): CController->render('create', Array)
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): TransferController->actionCreate()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#24 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfer/create')
+#25 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#26 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/yii/football/index.php?r=transfer/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfer
+---
+2013/06/06 19:16:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "transferController/getPlayerClub".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transferControl...')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/football/index.php?r=transferController/getPlayerClub
+HTTP_REFERER=http://192.168.0.102/yii/football/index.php?r=transfer/create
+---
+2013/06/06 20:39:31 [error] [exception.CException] exception 'CException' with message 'CActiveForm and its behaviors do not have a method or closure named "activeDateField".' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\transfer\_form.php(42): CComponent->__call('activeDateField', Array)
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\transfer\_form.php(42): CActiveForm->activeDateField(Object(Transfer), 'date')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\views\transfer\create.php(18): CController->renderPartial('_form', Array)
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(126): require('C:\Program File...')
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\Program File...', Array, true)
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\Program File...', Array, true)
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\TransferController.php(79): CController->render('create', Array)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): TransferController->actionCreate()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#19 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#21 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfer/create')
+#22 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/yii/football/index.php?r=transfer/create
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfer
+---
+2013/06/06 20:47:39 [error] [exception.CException] exception 'CException' with message 'Property "Player.Club" is not defined.' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\ar\CActiveRecord.php(143): CComponent->__get('Club')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\TransferController.php(149): CActiveRecord->__get('Club')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): TransferController->actionGetPlayerClub()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('getPlayerClub')
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfer/getPla...')
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/football/index.php?r=transfer/getPlayerClub
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfer/create
+---
+2013/06/06 20:47:56 [error] [exception.CException] exception 'CException' with message 'Property "Player.Club" is not defined.' in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\db\ar\CActiveRecord.php(143): CComponent->__get('Club')
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\TransferController.php(149): CActiveRecord->__get('Club')
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): TransferController->actionGetPlayerClub()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): CController->run('getPlayerClub')
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('transfer/getPla...')
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/football/index.php?r=transfer/getPlayerClub
+HTTP_REFERER=http://127.0.0.1/yii/football/index.php?r=transfer/create
+---
+2013/06/06 21:13:15 [error] [php] include(CHtmal.php): failed to open stream: No such file or directory (C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\TransferController.php(77): spl_autoload_call()
+#1 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\actions\CInlineAction.php(49): TransferController->actionCreate()
+#2 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(133): TransferController->runAction()
+#4 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CInlineFilter.php(58): TransferController->filterAccessControl()
+#7 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CController.php(265): TransferController->runActionWithFilters()
+#10 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(282): TransferController->run()
+#11 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/football/index.php?r=transfer/create
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\protected\controllers\TransferController.php (77)
+in C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\yii\football\index.php (13)
